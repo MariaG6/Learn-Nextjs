@@ -9,8 +9,8 @@ For detailed information and to get started, check out the [course curriculum](h
 
 ### Deployed Version
 Explore the deployed version of the dashboard application: [Next.js Dashboard](https://nextjs-dashboard-sigma-ruddy.vercel.app/). Witness the practical implementation of the concepts you'll be learning in the course.
-If you want to try it out. You should be able to log in and out of your application using the following credentials:
 
+If you want to try it out. You should be able to log in and out of your application using the following credentials:
 Email: user@nextmail.com
 Password: 123456
 
