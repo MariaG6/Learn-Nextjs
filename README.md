@@ -8,7 +8,7 @@ If you're ready to enhance your Next.js skills and delve into the world of app r
 For detailed information and to get started, check out the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
 ### Deployed Version
-Explore the deployed version of the dashboard application: [Next.js Dashboard](https://nextjs-dashboard-sigma-ruddy.vercel.app/). Witness the practical implementation of the concepts you'll be learning in the course.
+Explore the deployed version of the dashboard application: [Next.js Dashboard](https://nextjs-dashboard-1h4sfdoqa-mariagrcs-projects.vercel.app/). Witness the practical implementation of the concepts you'll be learning in the course.
 
 If you want to try it out. You should be able to log in and out of your application using the following credentials:
 
